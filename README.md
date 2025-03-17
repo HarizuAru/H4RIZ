@@ -32,7 +32,7 @@ Here are some of my favorite projects:
 
 ---
 
-### 🎯 Goals for 2023
+### 🎯 Goals for 2025
 - Learn more about **Data Mesh** and **Data Observability**.
 - Contribute to open-source data engineering projects.
 - Build a real-time analytics platform.
