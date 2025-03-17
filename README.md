@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm HARIZ ISKANDAR! 👋
 
 🚀 **Data Engineer** | 💻 **Tech Enthusiast** | 📊 **Data Lover**
 
@@ -11,10 +11,10 @@ Here are some of the tools and technologies I work with:
 
 - **Data Processing**: Apache Spark, Apache Flink, Pandas, PySpark
 - **Databases**: PostgreSQL, MySQL, MongoDB, Cassandra
-- **Cloud Platforms**: AWS, GCP, Azure
+- **Cloud Platforms**: AWS and Azure
 - **ETL Tools**: Apache Airflow, Talend, Informatica
 - **Big Data**: Hadoop, Hive, Kafka
-- **Programming Languages**: Python, SQL, Java, Scala
+- **Programming Languages**: Python, SQL, Java
 
 ---
 
@@ -40,19 +40,10 @@ Here are some of my favorite projects:
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-handle)
+- LinkedIn: www.linkedin.com/in/hariz-iskandar-ismail-9a2817251
 - Portfolio: [Your Portfolio Website](https://your-portfolio.com)
 
 ---
 
-### 🎨 Data Engineering Logos
-Here are some cool logos related to data engineering:
-
-![Apache Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
-![Apache Kafka](https://upload.wikimedia.org/wikipedia/commons/0/0c/Apache_kafka-icon.svg)
-![Apache Airflow](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)
-
----
 
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
